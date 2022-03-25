@@ -192,6 +192,12 @@ svg{
      
 }
 
+/*contact page*/
+.error-message {
+    color: red;
+    font-size: .8em;
+}
+
 /*work page*/
 
 /*grid fallback*/
