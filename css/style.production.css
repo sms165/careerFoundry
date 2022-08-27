@@ -49,12 +49,12 @@ a{
     transition-duration: .9s;
 }
 a:active{
-    color: #456887;
+    color: #6fa7d7;
 
 }
 
 a:visited{
-    color: #31495E;
+    color: #90a9be;
 }
 
 a:hover{
@@ -173,6 +173,14 @@ td{
 
 svg{
     margin-bottom: 10px;
+}
+
+.workImg{
+    width: 30vw;
+}
+
+.workImgH{
+    height: 70vh;
 }
 
 /*footer*/
